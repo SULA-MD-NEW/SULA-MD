@@ -6,7 +6,7 @@
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID":
       "description": "Put the session-id here.",
       "required": true
     },
