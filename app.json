@@ -6,7 +6,7 @@
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {𝐒𝐔𝐋𝐀-𝐌𝐃=k6cSgAoJ#Tbg-_1UFQXxSNnNGRqvRlYkfRb3iiLWNctU1UqN3q8o
       "description": "Put the session-id here.",
       "required": true
     },
@@ -30,8 +30,7 @@
 
      "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+            ""
         }
-     ],
-  "stack": "heroku-24"
+     ]
 }
